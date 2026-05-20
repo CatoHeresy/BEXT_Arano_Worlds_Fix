@@ -40,3 +40,5 @@ After:
 Drag and drop the contents into your Battletech folder. 
 
 Note this will overwrite 82 BEXT starsystem files. You may wish to take a backup first.
+
+Whilst this is intended for Career mode, it should be safe to use in Story mode as well.
