@@ -1,4 +1,4 @@
-# BEXT Arano Restoration Fix
+# BEXT Arano Worlds Fix
 
 In Career mode after the Story, the Arano Restoration is far too passive and isolated. 
 They never spawn missions outside their territory, no other factions can ever target them, not even Pirates. Your reputation will forever be +100 with them.
@@ -24,3 +24,19 @@ Marik is now allowed to spawn missions on Magistracy border worlds
 
 Aurigan Pirates are now allowed to spawn missions on the small cluster of Taurian & Magistracy worlds they have a presence on.
 
+# Examples
+
+Before:
+
+![Example Before](/ExampleBefore.jpg)
+
+After:
+
+![Example After](ExampleFixed.jpg)
+
+
+# Install
+
+Drag and drop the contents into your Battletech folder. 
+
+Note this will overwrite 82 BEXT starsystem files. You may wish to take a backup first.
